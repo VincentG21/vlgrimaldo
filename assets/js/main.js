@@ -93,8 +93,4 @@ $(document).ready(function(){
             event.preventDefault()
         }
     })
-    $(".subject").val("")
-    $(".email").val("")
-    $(".message").val("")
-
 })
